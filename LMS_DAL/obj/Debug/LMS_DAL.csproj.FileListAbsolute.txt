@@ -1,0 +1,17 @@
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_DAL\bin\Debug\LMS_DAL.dll
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_DAL\bin\Debug\LMS_DAL.pdb
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_DAL\obj\Debug\LMS_DAL.csprojAssemblyReference.cache
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_DAL\obj\Debug\LMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_DAL\obj\Debug\LMS_DAL.dll
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_DAL\obj\Debug\LMS_DAL.pdb
+C:\GROUP 2 PROJECT\LMS_DAL\obj\Debug\LMS_DAL.csprojAssemblyReference.cache
+C:\GROUP 2 PROJECT\LMS_DAL\obj\Debug\LMS_DAL.csproj.CoreCompileInputs.cache
+C:\GROUP 2 PROJECT\LMS_DAL\obj\Debug\LMS_DAL.dll
+C:\GROUP 2 PROJECT\LMS_DAL\obj\Debug\LMS_DAL.pdb
+C:\GROUP 2 PROJECT\LMS_DAL\bin\Debug\LMS_DAL.dll
+C:\GROUP 2 PROJECT\LMS_DAL\bin\Debug\LMS_DAL.pdb
+C:\GROUP 2 PROJECT\LMS_DAL\bin\Debug\LMS_ENTITY.dll
+C:\GROUP 2 PROJECT\LMS_DAL\bin\Debug\LMS_EXCEPTION.dll
+C:\GROUP 2 PROJECT\LMS_DAL\bin\Debug\LMS_ENTITY.pdb
+C:\GROUP 2 PROJECT\LMS_DAL\bin\Debug\LMS_EXCEPTION.pdb
+C:\GROUP 2 PROJECT\LMS_DAL\obj\Debug\LMS_DAL.csproj.CopyComplete

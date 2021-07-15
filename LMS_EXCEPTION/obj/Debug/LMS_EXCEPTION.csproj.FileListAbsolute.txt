@@ -1,0 +1,10 @@
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_EXCEPTION\bin\Debug\LMS_EXCEPTION.dll
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_EXCEPTION\bin\Debug\LMS_EXCEPTION.pdb
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_EXCEPTION\obj\Debug\LMS_EXCEPTION.csproj.CoreCompileInputs.cache
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_EXCEPTION\obj\Debug\LMS_EXCEPTION.dll
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_EXCEPTION\obj\Debug\LMS_EXCEPTION.pdb
+C:\GROUP 2 PROJECT\LMS_EXCEPTION\bin\Debug\LMS_EXCEPTION.dll
+C:\GROUP 2 PROJECT\LMS_EXCEPTION\bin\Debug\LMS_EXCEPTION.pdb
+C:\GROUP 2 PROJECT\LMS_EXCEPTION\obj\Debug\LMS_EXCEPTION.csproj.CoreCompileInputs.cache
+C:\GROUP 2 PROJECT\LMS_EXCEPTION\obj\Debug\LMS_EXCEPTION.dll
+C:\GROUP 2 PROJECT\LMS_EXCEPTION\obj\Debug\LMS_EXCEPTION.pdb

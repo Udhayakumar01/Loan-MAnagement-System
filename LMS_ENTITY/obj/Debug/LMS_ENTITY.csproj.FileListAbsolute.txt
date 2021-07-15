@@ -1,0 +1,15 @@
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_ENTITY\bin\Debug\LMS_ENTITY.dll
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_ENTITY\bin\Debug\LMS_ENTITY.pdb
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_ENTITY\obj\Debug\LMS_ENTITY.csprojAssemblyReference.cache
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_ENTITY\obj\Debug\LMS_ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_ENTITY\obj\Debug\LMS_ENTITY.dll
+C:\Users\raj kumar gupta\source\repos\LMS\LMS_ENTITY\obj\Debug\LMS_ENTITY.pdb
+C:\GROUP 2 PROJECT\LMS_ENTITY\bin\Debug\LMS_ENTITY.dll
+C:\GROUP 2 PROJECT\LMS_ENTITY\bin\Debug\LMS_ENTITY.pdb
+C:\GROUP 2 PROJECT\LMS_ENTITY\bin\Debug\LMS_EXCEPTION.dll
+C:\GROUP 2 PROJECT\LMS_ENTITY\bin\Debug\LMS_EXCEPTION.pdb
+C:\GROUP 2 PROJECT\LMS_ENTITY\obj\Debug\LMS_ENTITY.csprojAssemblyReference.cache
+C:\GROUP 2 PROJECT\LMS_ENTITY\obj\Debug\LMS_ENTITY.csproj.CoreCompileInputs.cache
+C:\GROUP 2 PROJECT\LMS_ENTITY\obj\Debug\LMS_ENTITY.csproj.CopyComplete
+C:\GROUP 2 PROJECT\LMS_ENTITY\obj\Debug\LMS_ENTITY.dll
+C:\GROUP 2 PROJECT\LMS_ENTITY\obj\Debug\LMS_ENTITY.pdb

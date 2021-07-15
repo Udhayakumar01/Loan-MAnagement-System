@@ -1,0 +1,20 @@
+﻿LMS_UI
+
+
+winexe
+C#
+.cs
+C:\GROUP 2 PROJECT\LMS_UI\obj\Debug\
+LMS_UI
+none
+false
+DEBUG;TRACE
+C:\GROUP 2 PROJECT\LMS_UI\App.xaml
+161197014052
+
+20313590995
+171351611604
+AcceptLoan.xaml;Apply_Loan.xaml;Customer_Login.xaml;Customer_Registration.xaml;Employee_Login.xaml;Employee_Operations.xaml;Employee_Registration.xaml;Loan_Status.xaml;MainWindow.xaml;MainWindow1.xaml;MainWindow_Login.xaml;Manage_Customers.xaml;Personal_Information.xaml;RejectLoan.xaml;Update_Customer_Details.xaml;View_Customer_Details.xaml;
+
+False
+
